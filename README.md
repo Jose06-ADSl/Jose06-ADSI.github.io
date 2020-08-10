@@ -1,5 +1,5 @@
 # Jose06-ADSI.github.io
 # Bienvenido
-[banco.html](banco.html)
+[banco.html](Bancoop)
 
-[veterinaria.html](veterinaria.html)
+[veterinaria.html](Veterinaria)
